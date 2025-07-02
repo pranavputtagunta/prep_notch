@@ -1,0 +1,62 @@
+Okay, I think I have all the information needed.
+
+INFORMATION_COMPLETE
+
+**Goal:** Build a four-function calculator app in Python within the next week, dedicating about one hour per day to the project, to learn basic Python.
+
+**Motivation:** To learn basic Python.
+
+**Success:** Having a command-line calculator that can perform addition, subtraction, multiplication, and division.
+
+**Tasks:**
+
+1.  **Project Setup (Day 1):**
+    *   Sub-tasks:
+        *   Install Python (if not already installed).
+        *   Create a new Python file (e.g., `calculator.py`).
+        *   Set up a virtual environment (optional but recommended).
+    *   Dependencies: None
+    *   Required Skills: Basic computer skills, familiarity with command line (optional)
+    *   Deadline: End of Day 1
+2.  **Input Handling (Day 2):**
+    *   Sub-tasks:
+        *   Prompt the user to enter the first number.
+        *   Prompt the user to enter the operation (+, -, \*, /).
+        *   Prompt the user to enter the second number.
+        *   Store the inputs in variables.
+    *   Dependencies: Project Setup
+    *   Required Skills: Basic Python syntax, input/output operations
+    *   Deadline: End of Day 2
+3.  **Calculation Logic (Day 3):**
+    *   Sub-tasks:
+        *   Create functions for each operation (add, subtract, multiply, divide).
+        *   Implement the calculation logic within each function.
+    *   Dependencies: Input Handling
+    *   Required Skills: Basic Python syntax, arithmetic operations, functions
+    *   Deadline: End of Day 3
+4.  **Error Handling (Day 4):**
+    *   Sub-tasks:
+        *   Check for division by zero.
+        *   Handle invalid operator input.
+        *   Handle non-numeric input.
+    *   Dependencies: Calculation Logic
+    *   Required Skills: Conditional statements (if/else), error handling (try/except)
+    *   Deadline: End of Day 4
+5.  **User Interface (Day 5):**
+    *   Sub-tasks:
+        *   Display the result of the calculation.
+        *   Ask the user if they want to perform another calculation.
+    *   Dependencies: Error Handling
+    *   Required Skills: Basic Python syntax, input/output operations
+    *   Deadline: End of Day 5
+6.  **Testing and Debugging (Day 6):**
+    *   Sub-tasks:
+        *   Test the calculator with various inputs.
+        *   Fix any bugs that are found.
+    *   Dependencies: User Interface
+    *   Required Skills: Problem-solving, debugging
+    *   Deadline: End of Day 6
+7.  **Wrap up and final testing (Day 7):**
+    *   Deadline: End of Day 7
+
+**Time Commitment:** Approximately 1 hour per day for 7 days.

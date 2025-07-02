@@ -1,0 +1,205 @@
+{
+    "goal_description": "Build a four-function calculator app in Python within the next week, dedicating about one hour per day to the project, to learn basic Python.",
+    "motivation": "To learn basic Python.",
+    "success_criteria": [
+        "Having a command-line calculator that can perform addition, subtraction, multiplication, and division."
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "description": "Project Setup",
+            "dependencies": null,
+            "skills_required": [
+                "Basic computer skills",
+                "familiarity with command line (optional)"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 1,
+                    "description": "Install Python (if not already installed).",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 2,
+                    "description": "Create a new Python file (e.g., `calculator.py`).",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 3,
+                    "description": "Set up a virtual environment (optional but recommended).",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": "End of Day 1"
+        },
+        {
+            "id": 2,
+            "description": "Input Handling",
+            "dependencies": [
+                1
+            ],
+            "skills_required": [
+                "Basic Python syntax",
+                "input/output operations"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 1,
+                    "description": "Prompt the user to enter the first number.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 2,
+                    "description": "Prompt the user to enter the operation (+, -, *, /).",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 3,
+                    "description": "Prompt the user to enter the second number.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 4,
+                    "description": "Store the inputs in variables.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": "End of Day 2"
+        },
+        {
+            "id": 3,
+            "description": "Calculation Logic",
+            "dependencies": [
+                2
+            ],
+            "skills_required": [
+                "Basic Python syntax",
+                "arithmetic operations",
+                "functions"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 1,
+                    "description": "Create functions for each operation (add, subtract, multiply, divide).",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 2,
+                    "description": "Implement the calculation logic within each function.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": "End of Day 3"
+        },
+        {
+            "id": 4,
+            "description": "Error Handling",
+            "dependencies": [
+                3
+            ],
+            "skills_required": [
+                "Conditional statements (if/else)",
+                "error handling (try/except)"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 1,
+                    "description": "Check for division by zero.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 2,
+                    "description": "Handle invalid operator input.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 3,
+                    "description": "Handle non-numeric input.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": "End of Day 4"
+        },
+        {
+            "id": 5,
+            "description": "User Interface",
+            "dependencies": [
+                4
+            ],
+            "skills_required": [
+                "Basic Python syntax",
+                "input/output operations"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 1,
+                    "description": "Display the result of the calculation.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 2,
+                    "description": "Ask the user if they want to perform another calculation.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": "End of Day 5"
+        },
+        {
+            "id": 6,
+            "description": "Testing and Debugging",
+            "dependencies": [
+                5
+            ],
+            "skills_required": [
+                "Problem-solving",
+                "debugging"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 1,
+                    "description": "Test the calculator with various inputs.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 2,
+                    "description": "Fix any bugs that are found.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": "End of Day 6"
+        },
+        {
+            "id": 7,
+            "description": "Wrap up and final testing",
+            "dependencies": null,
+            "skills_required": null,
+            "sub_tasks": [],
+            "status": "pending",
+            "deadline": "End of Day 7"
+        }
+    ],
+    "status": "pending",
+    "deadline": "End of Day 7"
+}
