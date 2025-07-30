@@ -1,0 +1,248 @@
+{
+    "goal_description": "Ace the USMLE (achieve a good score in the higher bracket).",
+    "total_days": 90,
+    "day_schedules": [
+        {
+            "day": 1,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 1,
+                    "sub_task_id": 1,
+                    "description": "Research the USMLE.",
+                    "status": "pending"
+                },
+                {
+                    "task_id": 7,
+                    "sub_task_id": 19,
+                    "description": "Develop and refine effective test-taking strategies.",
+                    "status": "pending"
+                }
+            ],
+            "notes": "Start with USMLE research and test-taking strategies."
+        },
+        {
+            "day": 2,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 1,
+                    "sub_task_id": 2,
+                    "description": "Understand the format.",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 3,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 1,
+                    "sub_task_id": 3,
+                    "description": "Understand the scoring system.",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 4,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 1,
+                    "sub_task_id": 4,
+                    "description": "Understand the registration process.",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 5,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 1,
+                    "sub_task_id": 5,
+                    "description": "Find resources for IMGs.",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 6,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 2,
+                    "sub_task_id": 6,
+                    "description": "Anatomy",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 7,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 2,
+                    "sub_task_id": 7,
+                    "description": "Physiology",
+                    "status": "pending"
+                }
+            ],
+            "notes": "Complete USMLE Familiarization task within the first week."
+        },
+        {
+            "day": 8,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 2,
+                    "sub_task_id": 8,
+                    "description": "Biochemistry",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 9,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 2,
+                    "sub_task_id": 9,
+                    "description": "Microbiology",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 10,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 2,
+                    "sub_task_id": 10,
+                    "description": "Pathology",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 11,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 2,
+                    "sub_task_id": 11,
+                    "description": "Pharmacology",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 12,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 2,
+                    "sub_task_id": 12,
+                    "description": "Behavioral Science",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 13,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 2,
+                    "sub_task_id": 13,
+                    "description": "Immunology",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 14,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 2,
+                    "sub_task_id": 14,
+                    "description": "Genetics",
+                    "status": "pending"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "day": 15,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 3,
+                    "sub_task_id": 15,
+                    "description": "Complete a large number of practice questions to test knowledge and identify weak areas.",
+                    "status": "pending"
+                }
+            ],
+            "notes": "Start practice questions after content review."
+        },
+        {
+            "day": 16,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 4,
+                    "sub_task_id": 16,
+                    "description": "Regularly review previously studied material to reinforce learning.",
+                    "status": "pending"
+                }
+            ],
+            "notes": "Start regular revisions after content review and some practice questions."
+        },
+        {
+            "day": 17,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 5,
+                    "sub_task_id": 17,
+                    "description": "Simulate the actual USMLE exam environment with timed mock exams.",
+                    "status": "pending"
+                }
+            ],
+            "notes": "Start mock exams after sufficient content review, practice questions, and revisions."
+        },
+        {
+            "day": 18,
+            "date": null,
+            "scheduled_sub_tasks": [
+                {
+                    "task_id": 6,
+                    "sub_task_id": 18,
+                    "description": "Focus on improving areas where you consistently struggle.",
+                    "status": "pending"
+                }
+            ],
+            "notes": "Start weakness remediation after practice questions and mock exams."
+        }
+    ],
+    "status": "pending",
+    "deadline": null
+}

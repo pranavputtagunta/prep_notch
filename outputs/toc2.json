@@ -1,0 +1,96 @@
+{
+    "chapters": [
+        {
+            "chapter": 1,
+            "title": "Chemical Reactions and Equations",
+            "page_number": 1,
+            "sections": [],
+            "summary": "This chapter likely introduces chemical reactions and equations, covering fundamental concepts in chemistry."
+        },
+        {
+            "chapter": 2,
+            "title": "Acids, Bases and Salts",
+            "page_number": 17,
+            "sections": [],
+            "summary": "This chapter probably discusses acids, bases, and salts, including their properties and reactions."
+        },
+        {
+            "chapter": 3,
+            "title": "Metals and Non-metals",
+            "page_number": 37,
+            "sections": [],
+            "summary": "This chapter likely covers the properties and reactions of metals and non-metals."
+        },
+        {
+            "chapter": 4,
+            "title": "Carbon and its Compounds",
+            "page_number": 58,
+            "sections": [],
+            "summary": "This chapter probably discusses carbon and its compounds, including organic chemistry concepts."
+        },
+        {
+            "chapter": 5,
+            "title": "Life Processes",
+            "page_number": 79,
+            "sections": [],
+            "summary": "This chapter likely covers fundamental life processes in organisms."
+        },
+        {
+            "chapter": 6,
+            "title": "Control and Coordination",
+            "page_number": 100,
+            "sections": [],
+            "summary": "This chapter probably discusses control and coordination mechanisms in living organisms."
+        },
+        {
+            "chapter": 7,
+            "title": "How do Organisms Reproduce?",
+            "page_number": 113,
+            "sections": [],
+            "summary": "This chapter likely covers the different modes of reproduction in organisms."
+        },
+        {
+            "chapter": 8,
+            "title": "Heredity",
+            "page_number": 128,
+            "sections": [],
+            "summary": "This chapter probably discusses the principles of heredity and genetics."
+        },
+        {
+            "chapter": 9,
+            "title": "Light \u2013 Reflection and Refraction",
+            "page_number": 134,
+            "sections": [],
+            "summary": "This chapter likely covers the phenomena of reflection and refraction of light."
+        },
+        {
+            "chapter": 10,
+            "title": "The Human Eye and the Colourful World",
+            "page_number": 161,
+            "sections": [],
+            "summary": "This chapter probably discusses the structure and function of the human eye and related phenomena."
+        },
+        {
+            "chapter": 11,
+            "title": "Electricity",
+            "page_number": 171,
+            "sections": [],
+            "summary": "This chapter likely covers the concepts of electricity and electric circuits."
+        },
+        {
+            "chapter": 12,
+            "title": "Magnetic Effects of Electric Current",
+            "page_number": 195,
+            "sections": [],
+            "summary": "This chapter probably discusses the magnetic effects of electric current."
+        },
+        {
+            "chapter": 13,
+            "title": "Our Environment",
+            "page_number": 208,
+            "sections": [],
+            "summary": "This chapter likely covers environmental issues and conservation."
+        }
+    ],
+    "is_complete": false
+}

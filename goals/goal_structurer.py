@@ -42,5 +42,5 @@ response = model.invoke(messages)
 
 goal = pydantic_parser.parse(response.content)
 
-with open("outputs/test_goal.json", "w") as f:
+with open("outputs/goal.json", "w") as f:
     json.dump(goal.model_dump(), f, indent= 4)

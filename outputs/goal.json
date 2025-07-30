@@ -1,0 +1,240 @@
+{
+    "goal_description": "Ace the USMLE (achieve a good score in the higher bracket).",
+    "motivation": null,
+    "success_criteria": [
+        "Achieve a good score on the USMLE",
+        "Complete all tasks and sub-tasks",
+        "Demonstrate mastery of key medical concepts"
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "description": "USMLE Familiarization",
+            "dependencies": null,
+            "skills_required": [
+                "Research",
+                "Understanding test formats",
+                "Understanding scoring systems"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 1,
+                    "description": "Research the USMLE.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 2,
+                    "description": "Understand the format.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 3,
+                    "description": "Understand the scoring system.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 4,
+                    "description": "Understand the registration process.",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 5,
+                    "description": "Find resources for IMGs.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": "Complete within the first week."
+        },
+        {
+            "id": 2,
+            "description": "Content Review",
+            "dependencies": [
+                1
+            ],
+            "skills_required": [
+                "Anatomy",
+                "Physiology",
+                "Biochemistry",
+                "Microbiology",
+                "Pathology",
+                "Pharmacology",
+                "Behavioral Science",
+                "Immunology",
+                "Genetics"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 6,
+                    "description": "Anatomy",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 7,
+                    "description": "Physiology",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 8,
+                    "description": "Biochemistry",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 9,
+                    "description": "Microbiology",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 10,
+                    "description": "Pathology",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 11,
+                    "description": "Pharmacology",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 12,
+                    "description": "Behavioral Science",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 13,
+                    "description": "Immunology",
+                    "status": "pending",
+                    "deadline": null
+                },
+                {
+                    "id": 14,
+                    "description": "Genetics",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": null
+        },
+        {
+            "id": 3,
+            "description": "Practice Questions",
+            "dependencies": [
+                2
+            ],
+            "skills_required": [
+                "Critical thinking",
+                "Problem-solving"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 15,
+                    "description": "Complete a large number of practice questions to test knowledge and identify weak areas.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": null
+        },
+        {
+            "id": 4,
+            "description": "Regular Revisions",
+            "dependencies": [
+                2,
+                3
+            ],
+            "skills_required": [
+                "Memory retention",
+                "Review techniques"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 16,
+                    "description": "Regularly review previously studied material to reinforce learning.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": null
+        },
+        {
+            "id": 5,
+            "description": "Mock Exams",
+            "dependencies": [
+                2,
+                3,
+                4
+            ],
+            "skills_required": [
+                "Test-taking skills",
+                "Time management"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 17,
+                    "description": "Simulate the actual USMLE exam environment with timed mock exams.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": null
+        },
+        {
+            "id": 6,
+            "description": "Weakness Remediation",
+            "dependencies": [
+                3,
+                5
+            ],
+            "skills_required": [
+                "Self-assessment",
+                "Targeted learning"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 18,
+                    "description": "Focus on improving areas where you consistently struggle.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": null
+        },
+        {
+            "id": 7,
+            "description": "Test-Taking Strategies",
+            "dependencies": null,
+            "skills_required": [
+                "Strategic thinking",
+                "Test analysis"
+            ],
+            "sub_tasks": [
+                {
+                    "id": 19,
+                    "description": "Develop and refine effective test-taking strategies.",
+                    "status": "pending",
+                    "deadline": null
+                }
+            ],
+            "status": "pending",
+            "deadline": null
+        }
+    ],
+    "status": "pending",
+    "deadline": "3 months"
+}

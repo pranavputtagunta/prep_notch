@@ -1,0 +1,11 @@
+Shared document access: 
+    For large documents, summarize them and organize them with json files that provide the structure and summaries of each document
+    Pass these jsons to agents when they need additional information so they know what documents to access. 
+
+Lesson Planning structure: 
+    Once the goals are made by the goal planner, pass them to a lesson planner
+    The lesson planner will make one overarching lesson plan - both the goal and lesson planner are run Once
+    The scheduler will then make a schedule based on the user's time commitment and deadline
+        Will take info from the goal and lesson planners
+    Finally, another agent will chunk up the overarching lesson according to the scheduler
+    This workflow allows for easy changes to the schedule while not having to regenerate lessons.

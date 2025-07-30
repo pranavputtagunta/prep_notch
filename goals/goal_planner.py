@@ -52,9 +52,6 @@ while True:
     input_messages = [HumanMessage(user_input)]
     output = app.invoke({"messages": input_messages}, config)
 
-    for key in output.keys():
-        print(key, output[key])
-
     text = output["messages"][-1].content
     if "INFORMATION_COMPLETE" in text: 
         with open("outputs/goals_summary.txt", "w") as f:

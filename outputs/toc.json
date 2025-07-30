@@ -1,0 +1,741 @@
+{
+    "chapters": [
+        {
+            "chapter": 1,
+            "title": "Measurement",
+            "page_number": 1,
+            "sections": [
+                "MEASURING THINGS, INCLUDING LENGTHS",
+                "What Is Physics?",
+                "Measuring Things",
+                "The International System of Units",
+                "Changing Units",
+                "Length",
+                "Significant Figures and Decimal Places",
+                "TIME",
+                "Time",
+                "MASS",
+                "Mass"
+            ],
+            "summary": "Chapter 1 introduces the fundamental concepts of measurement, including units, length, time, and mass. It covers the International System of Units, unit conversions, significant figures, and basic definitions of physical quantities."
+        },
+        {
+            "chapter": 2,
+            "title": "Motion Along a Straight Line",
+            "page_number": 13,
+            "sections": [
+                "POSITION, DISPLACEMENT , AND AVERAGE VELOCITY",
+                "What Is Physics?",
+                "Motion",
+                "Position and Displacement",
+                "Average Velocity and Average Speed",
+                "INSTANTANEOUS VELOCITY AND SPEED",
+                "Instantaneous Velocity and Speed",
+                "ACCELERATION",
+                "Acceleration",
+                "CONSTANT ACCELERATION",
+                "Constant Acceleration: A Special Case",
+                "Another Look at Constant Acceleration",
+                "FREE-FALL ACCELERATION",
+                "Free-Fall Acceleration",
+                "GRAPHICAL INTEGRATION IN MOTION ANAL YSIS",
+                "Graphical Integration in Motion Analysis"
+            ],
+            "summary": "Chapter 2 discusses motion along a straight line, covering concepts like position, displacement, velocity (average and instantaneous), speed, and acceleration. It also addresses constant acceleration and free-fall."
+        },
+        {
+            "chapter": 3,
+            "title": "Vectors",
+            "page_number": 40,
+            "sections": [
+                "VECTORS AND THEIR COMPONENTS",
+                "What Is Physics?",
+                "Vectors and Scalars",
+                "Adding Vectors Geometrically",
+                "Components of Vectors",
+                "UNIT VECTORS, ADDING VECTORS BY COMPONENTS",
+                "Unit Vectors",
+                "Adding Vectors by Components",
+                "Vectors and the Laws of Physics",
+                "MUL TIPL YING VECTORS",
+                "Multiplying Vectors"
+            ],
+            "summary": "Chapter 3 introduces vectors, their components, and vector operations such as addition and multiplication. It distinguishes between vectors and scalars and discusses unit vectors."
+        },
+        {
+            "chapter": 4,
+            "title": "Motion in Two and Three Dimensions",
+            "page_number": 62,
+            "sections": [
+                "POSITION AND DISPLACEMENT",
+                "What Is Physics?",
+                "Position and Displacement",
+                "AVERAGE VELOCITY AND INSTANTANEOUS VELOCITY",
+                "Average Velocity and Instantaneous Velocity",
+                "AVERAGE ACCELERATION AND INSTANTANEOUS ACCELERATION",
+                "Average Acceleration and Instantaneous Acceleration",
+                "PROJECTILE MOTION",
+                "Projectile Motion",
+                "UNIFORM CIRCULAR MOTION",
+                "Uniform Circular Motion",
+                "RELATIVE MOTION IN ONE DIMENSION",
+                "Relative Motion in One Dimension",
+                "RELATIVE MOTION IN TWO DIMENSIONS",
+                "Relative Motion in Two Dimensions"
+            ],
+            "summary": "Chapter 4 extends the concepts of motion to two and three dimensions, covering position, displacement, velocity, acceleration, projectile motion, uniform circular motion, and relative motion."
+        },
+        {
+            "chapter": 5,
+            "title": "Force and Motion\u2014I",
+            "page_number": 94,
+            "sections": [
+                "NEWTON\u2019S FIRST AND SECOND LAWS",
+                "What Is Physics?",
+                "Newtonian Mechanics",
+                "Newton\u2019s First Law",
+                "Force",
+                "Mass",
+                "Newton\u2019s Second Law",
+                "SOME PARTICULAR FORCES",
+                "Some Particular Forces",
+                "APPLYING NEWTON\u2019S LAWS",
+                "Newton\u2019s Third Law",
+                "Applying Newton\u2019s Laws"
+            ],
+            "summary": "Chapter 5 introduces Newton's laws of motion, defining force, mass, and their relationship. It covers Newton's first and second laws, some particular forces, and the application of Newton's laws."
+        },
+        {
+            "chapter": 6,
+            "title": "Force and Motion\u2014II",
+            "page_number": 124,
+            "sections": [
+                "FRICTION",
+                "What Is Physics?",
+                "Friction",
+                "Properties of Friction",
+                "THE DRAG FORCE AND TERMINAL SPEED",
+                "The Drag Force and Terminal Speed",
+                "UNIFORM CIRCULAR MOTION",
+                "Uniform Circular Motion"
+            ],
+            "summary": "Chapter 6 continues the discussion of force and motion, focusing on friction, drag force, terminal speed, and uniform circular motion."
+        },
+        {
+            "chapter": 7,
+            "title": "Kinetic Energy and Work",
+            "page_number": 149,
+            "sections": [
+                "KINETIC ENERGY",
+                "What Is Physics?",
+                "What Is Energy?",
+                "Kinetic Energy",
+                "WORK AND KINETIC ENERGY",
+                "Work",
+                "Work and Kinetic Energy",
+                "WORK DONE BY THE GRAVITATIONAL FORCE",
+                "Work Done by the Gravitational Force",
+                "WORK DONE BY A SPRING FORCE",
+                "Work Done by a Spring Force",
+                "WORK DONE BY A GENERAL VARIABLE FORCE",
+                "Work Done by a General Variable Force",
+                "POWER",
+                "Power"
+            ],
+            "summary": "Chapter 7 introduces the concepts of kinetic energy, work, and power. It covers work done by gravitational force, spring force, and general variable forces."
+        },
+        {
+            "chapter": 8,
+            "title": "Potential Energy and Conservation of Energy",
+            "page_number": 177,
+            "sections": [
+                "POTENTIAL ENERGY",
+                "What Is Physics?",
+                "Work and Potential Energy",
+                "Path Independence of Conservative Forces",
+                "Determining Potential Energy Values",
+                "CONSERVATION OF MECHANICAL ENERGY",
+                "Conservation of Mechanical Energy",
+                "READING A POTENTIAL ENERGY CURVE",
+                "Reading a Potential Energy Curve",
+                "WORK DONE ON A SYSTEM BY AN EXTERNAL FORCE",
+                "Work Done on a System by an External Force",
+                "CONSERVATION OF ENERGY",
+                "Conservation of Energy"
+            ],
+            "summary": "Chapter 8 discusses potential energy and the conservation of energy. It covers conservative forces, potential energy curves, and work done by external forces on a system."
+        },
+        {
+            "chapter": 9,
+            "title": "Center of Mass and Linear Momentum",
+            "page_number": 214,
+            "sections": [
+                "CENTER OF MASS",
+                "What Is Physics?",
+                "The Center of Mass",
+                "NEWTON\u2019S SECOND LAW FOR A S YSTEM OF PARTICLES",
+                "Newton\u2019s Second Law for a System of Particles",
+                "LINEAR MOMENTUM",
+                "Linear Momentum",
+                "The Linear Momentum of a System of Particles",
+                "COLLISION AND IMPULSE",
+                "Collision and Impulse",
+                "CONSERVATION OF LINEAR MOMENTUM",
+                "Conservation of Linear Momentum",
+                "MOMENTUM AND KINETIC ENERGY IN COLLIS IONS",
+                "Momentum and Kinetic Energy in Collisions",
+                "Inelastic Collisions in One Dimension",
+                "ELASTIC COLLISIONS IN ONE DIMENSION",
+                "Elastic Collisions in One Dimension",
+                "COLLISIONS IN TWO D IMENS IONS",
+                "Collisions in Two Dimensions",
+                "SYSTEMS WITH VARYING MASS: A ROCKET",
+                "Systems with Varying Mass: A Rocket"
+            ],
+            "summary": "Chapter 9 introduces the center of mass and linear momentum. It covers Newton's second law for a system of particles, collisions, impulse, conservation of linear momentum, and systems with varying mass like rockets."
+        },
+        {
+            "chapter": 10,
+            "title": "Rotation",
+            "page_number": 257,
+            "sections": [
+                "ROTATIONAL VARIABLES",
+                "What Is Physics?",
+                "Rotational Variables",
+                "Are Angular Quantities Vectors?",
+                "ROTATION WITH CONSTANT ANGULAR ACCELERATION",
+                "Rotation with Constant Angular Acceleration",
+                "RELATING THE LINEAR AND ANGULAR VARIABLES",
+                "Relating the Linear and Angular Variables",
+                "KINETIC ENERGY OF ROTATION",
+                "Kinetic Energy of Rotation",
+                "CALCULATING THE ROTATIONAL INERTIA",
+                "Calculating the Rotational Inertia",
+                "TORQUE",
+                "Torque",
+                "NEWTON\u2019S SECOND LAW FOR ROTATION",
+                "Newton\u2019s Second Law for Rotation",
+                "WORK AND ROTATIONAL KINETIC ENERGY",
+                "Work and Rotational Kinetic Energy"
+            ],
+            "summary": "Chapter 10 covers rotational motion, including rotational variables, constant angular acceleration, the relationship between linear and angular variables, kinetic energy of rotation, rotational inertia, torque, and Newton's second law for rotation."
+        },
+        {
+            "chapter": 11,
+            "title": "Rolling, Torque, and Angular Momentum",
+            "page_number": 295,
+            "sections": [
+                "ROLLING AS TRANSLATION AND ROTATION COMBINED",
+                "What Is Physics?",
+                "Rolling as Translation and Rotation Combined",
+                "FORCES AND KINETIC ENERGY OF ROLLING",
+                "The Kinetic Energy of Rolling",
+                "The Forces of Rolling",
+                "THE YO-YO",
+                "The Yo-Yo",
+                "TORQUE REVISITED",
+                "Torque Revisited",
+                "ANGULAR MOMENTUM",
+                "Angular Momentum",
+                "NEWTON\u2019S SECOND LAW IN ANGULAR FORM",
+                "Newton\u2019s Second Law in Angular Form",
+                "ANGULAR MOMENTUM OF A RIGID BODY",
+                "The Angular Momentum of a System of Particles",
+                "The Angular Momentum of a Rigid Body Rotating About a Fixed Axis",
+                "CONSERVATION OF ANGULAR MOMENTUM",
+                "Conservation of Angular Momentum",
+                "PRECESSION OF A GYROSCOPE",
+                "Precession of a Gyroscope"
+            ],
+            "summary": "Chapter 11 discusses rolling motion as a combination of translation and rotation. It covers the kinetic energy of rolling, forces of rolling, torque, angular momentum, Newton's second law in angular form, conservation of angular momentum, and precession of a gyroscope."
+        },
+        {
+            "chapter": 12,
+            "title": "Equilibrium and Elasticity",
+            "page_number": 327,
+            "sections": [
+                "EQUILIBRIUM",
+                "What Is Physics?",
+                "Equilibrium",
+                "The Requirements of Equilibrium",
+                "The Center of Gravity",
+                "SOME EXAMPLES OF STATIC EQUILIBRIUM",
+                "Some Examples of Static Equilibrium",
+                "ELASTICITY",
+                "Indeterminate Structures",
+                "Elasticity"
+            ],
+            "summary": "Chapter 12 covers equilibrium and elasticity, including the requirements of equilibrium, the center of gravity, examples of static equilibrium, indeterminate structures, and elasticity."
+        },
+        {
+            "chapter": 13,
+            "title": "Gravitation",
+            "page_number": 354,
+            "sections": [
+                "NEWTON\u2019S LAW OF GRAVITATION",
+                "What Is Physics?",
+                "Newton\u2019s Law of Gravitation",
+                "GRAVITATION AND THE PRINCIPLE OF SUPERPOSITION",
+                "Gravitation and the Principle of Superposition",
+                "GRAVITATION NEAR EARTH\u2019S SURFACE",
+                "Gravitation Near Earth\u2019s Surface",
+                "GRAVITATION INSIDE EARTH",
+                "Gravitation Inside Earth",
+                "GRAVITATIONAL POTENTIAL ENERGY",
+                "Gravitational Potential Energy",
+                "PLANETS AND SATELLITES: KEPLER\u2019S LAWS",
+                "Planets and Satellites: Kepler\u2019s Laws",
+                "SATELLITES: ORBITS AND ENERGY",
+                "Satellites: Orbits and Energy",
+                "EINSTEIN AND GRAVITATION",
+                "Einstein and Gravitation"
+            ],
+            "summary": "Chapter 13 discusses gravitation, including Newton's law of gravitation, the principle of superposition, gravitation near Earth's surface and inside Earth, gravitational potential energy, Kepler's laws, satellite orbits and energy, and Einstein's theory of gravitation."
+        },
+        {
+            "chapter": 14,
+            "title": "Fluids",
+            "page_number": 386,
+            "sections": [
+                "FLUIDS, DENSITY, AND PRESSURE",
+                "What Is Physics?",
+                "What Is a Fluid?",
+                "Density and Pressure",
+                "FLUIDS AT REST",
+                "Fluids at Rest",
+                "MEASURING PRESSURE",
+                "Measuring Pressure"
+            ],
+            "summary": "Chapter 14 introduces fluids, density, and pressure. It covers fluids at rest and methods for measuring pressure."
+        },
+        {
+            "chapter": 15,
+            "title": "Oscillations",
+            "page_number": 413,
+            "sections": [
+                "SIMPLE HARMONIC MOTION",
+                "ENERGY IN SIMPLE HARMONIC MOTION",
+                "AN ANGULAR SIMPLE HARMONIC OSCILLATOR",
+                "PENDULUMS, CIRCULAR MOTION",
+                "DAMPED SIMPLE HARMONIC MOTION",
+                "FORCED OSCILLATIONS AND RESONANCE"
+            ],
+            "summary": "Chapter 15 covers oscillations, including simple harmonic motion, energy in simple harmonic motion, angular simple harmonic oscillators, pendulums, circular motion, damped simple harmonic motion, and forced oscillations and resonance."
+        },
+        {
+            "chapter": 16,
+            "title": "Waves\u2014I",
+            "page_number": 444,
+            "sections": [
+                "TRANSVERSE WAVES",
+                "WAVE SPEED ON A STRETCHED STRING",
+                "ENERGY AND POWER OF A WAVE TRAVELING ALONG \nA STRING",
+                "THE WAVE EQUATION",
+                "INTERFERENCE OF WAVES",
+                "PHASORS",
+                "STANDING WAVES AND RESONANCE"
+            ],
+            "summary": "Chapter 16 discusses waves, including transverse waves, wave speed on a stretched string, energy and power of a wave traveling along a string, the wave equation, interference of waves, phasors, and standing waves and resonance."
+        },
+        {
+            "chapter": 17,
+            "title": "Waves\u2014II",
+            "page_number": 479,
+            "sections": [
+                "SPEED OF SOUND",
+                "TRAVELING SOUND WAVES",
+                "INTERFERENCE",
+                "INTENSITY AND SOUND LEVEL",
+                "SOURCES OF MUSICAL SOUND",
+                "BEATS",
+                "THE DOPPLER EFFECT",
+                "SUPERSONIC SPEEDS, SHOCK WAVES"
+            ],
+            "summary": "Chapter 17 covers sound waves, including the speed of sound, traveling sound waves, interference, intensity and sound level, sources of musical sound, beats, the Doppler effect, and supersonic speeds and shock waves."
+        },
+        {
+            "chapter": 18,
+            "title": "Temperature, Heat, and the First Law of Thermodynamics",
+            "page_number": 514,
+            "sections": [
+                "TEMPERATURE",
+                "THE CELSIUS AND FAHRENHEIT SCALES",
+                "THERMAL EXPANSION",
+                "ABSORPTION OF HEAT",
+                "THE FIRST LAW OF THERMODYNAMICS",
+                "HEAT TRANSFER MECHANISMS"
+            ],
+            "summary": "Chapter 18 discusses temperature, heat, and the first law of thermodynamics. It covers temperature scales, thermal expansion, heat absorption, the first law of thermodynamics, and heat transfer mechanisms."
+        },
+        {
+            "chapter": 19,
+            "title": "The Kinetic Theory of Gases",
+            "page_number": 549,
+            "sections": [
+                "AVOGADRO\u2019S NUMBER",
+                "IDEAL GASES",
+                "PRESSURE, TEMPERATURE, AND RMS SPEED",
+                "TRANSLATIONAL KINETIC ENERGY",
+                "MEAN FREE PATH",
+                "THE DISTRIBUTION OF MOLECULAR SPEEDS",
+                "THE MOLAR SPECIFIC HEATS OF AN IDEAL GAS",
+                "DEGREES OF FREEDOM AND MOLAR SPECIFIC HEATS",
+                "THE ADIABATIC EXPANSION OF AN IDEAL GAS"
+            ],
+            "summary": "Chapter 19 covers the kinetic theory of gases, including Avogadro's number, ideal gases, pressure, temperature and RMS speed, translational kinetic energy, mean free path, distribution of molecular speeds, molar specific heats, degrees of freedom, and adiabatic expansion."
+        },
+        {
+            "chapter": 20,
+            "title": "Entropy and the Second Law of Thermodynamics",
+            "page_number": 583,
+            "sections": [
+                "ENTROPY",
+                "ENTROPY IN THE REAL WORLD: ENGINES",
+                "REFRIGERATORS AND REAL ENGINES",
+                "A STATISTICAL VIEW OF ENTROPY"
+            ],
+            "summary": "Chapter 20 discusses entropy and the second law of thermodynamics, covering irreversible processes, entropy changes, engines, refrigerators, and a statistical view of entropy."
+        },
+        {
+            "chapter": 21,
+            "title": "Coulomb\u2019s Law",
+            "page_number": 609,
+            "sections": [
+                "COULOMB\u2019S LAW",
+                "CHARGE IS QUANTIZED",
+                "CHARGE IS CONSERVED"
+            ],
+            "summary": "Chapter 21 introduces Coulomb's Law, electric charge, conductors and insulators, quantization of charge, and conservation of charge."
+        },
+        {
+            "chapter": 22,
+            "title": "Electric Fields",
+            "page_number": 630,
+            "sections": [
+                "THE ELECTRIC FIELD",
+                "THE ELECTRIC FIELD DUE TO A CHARGED PARTICLE",
+                "THE ELECTRIC FIELD DUE TO A DIPOLE",
+                "THE ELECTRIC FIELD DUE TO A LINE OF CHARGE",
+                "THE ELECTRIC FIELD DUE TO A CHARGED DISK",
+                "A POINT CHARGE IN AN ELECTRIC FIELD",
+                "A DIPOLE IN AN ELECTRIC FIELD"
+            ],
+            "summary": "Chapter 22 covers electric fields, including the electric field due to a charged particle, dipole, line of charge, and charged disk. It also discusses the behavior of a point charge and a dipole in an electric field."
+        },
+        {
+            "chapter": 23,
+            "title": "Gauss\u2019 Law",
+            "page_number": 659,
+            "sections": [
+                "ELECTRIC FLUX",
+                "GAUSS\u2019 LAW",
+                "A CHARGED ISOLATED CONDUCTOR",
+                "APPLYING GAUSS\u2019 LAW: CYLINDRICAL SYMMETRY",
+                "APPLYING GAUSS\u2019 LAW: PLANAR SYMMETRY",
+                "APPLYING GAUSS\u2019 LAW: SPHERICAL SYMMETRY"
+            ],
+            "summary": "Chapter 23 discusses Gauss' Law, including electric flux, Gauss' Law and Coulomb's Law, charged isolated conductors, and applications of Gauss' Law to cylindrical, planar, and spherical symmetries."
+        },
+        {
+            "chapter": 24,
+            "title": "Electric Potential",
+            "page_number": 685,
+            "sections": [
+                "ELECTRIC POTENTIAL",
+                "EQUIPOTENTIAL SURFACES AND THE ELECTRIC FIELD",
+                "POTENTIAL DUE TO A CHARGED PARTICLE",
+                "POTENTIAL DUE TO AN ELECTRIC DIPOLE",
+                "POTENTIAL DUE TO A CONTINUOUS CHARGE DISTRIBUTION",
+                "CALCULATING THE FIELD FROM THE POTENTIAL",
+                "ELECTRIC POTENTIAL ENERGY OF A S YSTEM OF \nCHARGED PARTICLES",
+                "POTENTIAL OF A CHARGED ISOLATED CONDUCTOR"
+            ],
+            "summary": "Chapter 24 covers electric potential, equipotential surfaces, potential due to charged particles, dipoles, and continuous charge distributions. It also discusses calculating the field from the potential and the electric potential energy of systems of charged particles."
+        },
+        {
+            "chapter": 25,
+            "title": "Capacitance",
+            "page_number": 717,
+            "sections": [
+                "CAPACITANCE",
+                "CALCULATING THE CAPACITANCE",
+                "CAPACITORS IN PARALLEL AND IN SERIES",
+                "ENERGY STORED IN AN ELECTRIC FIELD",
+                "CAPACITOR WITH A DIELECTRIC",
+                "DIELECTRICS AND GAUSS\u2019 LAW"
+            ],
+            "summary": "Chapter 25 discusses capacitance, including calculating capacitance, capacitors in parallel and series, energy stored in an electric field, capacitors with dielectrics, and dielectrics and Gauss' Law."
+        },
+        {
+            "chapter": 26,
+            "title": "Current and Resistance",
+            "page_number": 745,
+            "sections": [
+                "ELECTRIC CURRENT",
+                "CURRENT DENSITY",
+                "RESISTANCE AND RESISTIVITY",
+                "OHM\u2019S LAW",
+                "POWER, SEMICONDUCTORS, SUPERCONDUCTORS"
+            ],
+            "summary": "Chapter 26 covers electric current, current density, resistance and resistivity, Ohm's law, power in electric circuits, semiconductors, and superconductors."
+        },
+        {
+            "chapter": 27,
+            "title": "Circuits",
+            "page_number": 771,
+            "sections": [
+                "SINGLE-LOOP CIRCUITS",
+                "MULTILOOP CIRCUITS",
+                "THE AMMETER AND THE VOLTMETER",
+                "RC CIRCUITS"
+            ],
+            "summary": "Chapter 27 discusses circuits, including single-loop circuits, multiloop circuits, ammeters and voltmeters, and RC circuits."
+        },
+        {
+            "chapter": 28,
+            "title": "Magnetic Fields",
+            "page_number": 803,
+            "sections": [
+                "MAGNETIC FIELDS AND THE DEFINITION OF B",
+                "CROSSED FIELDS: DISCOVERY OF THE ELECTRON",
+                "CROSSED FIELDS: THE HALL EFFECT",
+                "A CIRCULATING CHARGED PARTICLE",
+                "CYCLOTRONS AND SYNCHROTRONS",
+                "MAGNETIC FORCE ON A CURRENT-CARRYING WIRE",
+                "TORQUE ON A CURRENT LOOP",
+                "THE MAGNETIC DIPOLE MOMENT"
+            ],
+            "summary": "Chapter 28 covers magnetic fields, including the definition of B, crossed fields and the discovery of the electron, the Hall effect, circulating charged particles, cyclotrons and synchrotrons, magnetic force on current-carrying wires, torque on current loops, and the magnetic dipole moment."
+        },
+        {
+            "chapter": 29,
+            "title": "Magnetic Fields Due to Currents",
+            "page_number": 836,
+            "sections": [
+                "MAGNETIC FIELD DUE TO A CURRENT",
+                "FORCE BETWEEN TWO PARALLEL CURRENTS",
+                "AMPERE\u2019S LAW",
+                "SOLENOIDS AND TOROIDS",
+                "A CURRENT-CARRYING COIL AS A MAGNETIC DIPOLE"
+            ],
+            "summary": "Chapter 29 discusses magnetic fields due to currents, including calculating the magnetic field, force between parallel currents, Ampere's Law, solenoids and toroids, and current-carrying coils as magnetic dipoles."
+        },
+        {
+            "chapter": 30,
+            "title": "Induction and Inductance",
+            "page_number": 864,
+            "sections": [
+                "FARADAY\u2019S LAW AND LENZ\u2019S LAW",
+                "INDUCTION AND ENERGY TRANSFERS",
+                "INDUCED ELECTRIC FIELDS",
+                "INDUCTORS AND INDUCTANCE",
+                "SELF-INDUCTION",
+                "RL CIRCUITS",
+                "ENERGY STORED IN A MAGNETIC FIELD",
+                "ENERGY DENSITY OF A MAGNETIC FIELD",
+                "MUTUAL INDUCTION"
+            ],
+            "summary": "Chapter 30 covers induction and inductance, including Faraday's Law and Lenz's Law, induction and energy transfers, induced electric fields, inductors and inductance, self-induction, RL circuits, energy stored in a magnetic field, energy density, and mutual induction."
+        },
+        {
+            "chapter": 31,
+            "title": "Electromagnetic Oscillations and Alternating Current",
+            "page_number": 903,
+            "sections": [
+                "LC OSCILLATIONS",
+                "DAMPED OSCILLATIONS IN AN RLC CIRCUIT",
+                "FORCED OSCILLATIONS OF THREE SIMPLE CIRCUITS",
+                "THE SERIES RLC CIRCUIT",
+                "POWER IN AL TERNATING-CURRENT CIRCUITS",
+                "TRANSFORMERS"
+            ],
+            "summary": "Chapter 31 discusses electromagnetic oscillations and alternating current, including LC oscillations, damped oscillations in RLC circuits, forced oscillations of simple circuits, series RLC circuits, power in AC circuits, and transformers."
+        },
+        {
+            "chapter": 32,
+            "title": "Maxwell\u2019s Equations; Magnetism of Matter",
+            "page_number": 941,
+            "sections": [
+                "GAUSS\u2019 LAW FOR MAGNETIC FIELDS",
+                "INDUCED MAGNETIC FIELDS",
+                "DISPLAC EMENT CURRENT",
+                "MAGNETS",
+                "MAGNETISM AND ELECTRONS",
+                "DIAMAGNETISM",
+                "PARAMAGNETISM",
+                "FERROMAGNETISM"
+            ],
+            "summary": "Chapter 32 covers Maxwell's equations and the magnetism of matter, including Gauss' Law for magnetic fields, induced magnetic fields, displacement current, magnets, magnetism and electrons, diamagnetism, paramagnetism, and ferromagnetism."
+        },
+        {
+            "chapter": 33,
+            "title": "Electromagnetic Waves",
+            "page_number": 972,
+            "sections": [
+                "ELECTROMAGNETIC WAVES",
+                "ENERGY TRANSPORT AND THE P OYNTING VECTOR",
+                "RADIATION PRESSURE",
+                "POLARIZATION",
+                "REFLECTION AND REFRACTION",
+                "TOTAL INTERNAL REFLECTION",
+                "POLARIZATION BY REFLECTION"
+            ],
+            "summary": "Chapter 33 discusses electromagnetic waves, including energy transport and the Poynting vector, radiation pressure, polarization, reflection and refraction, total internal reflection, and polarization by reflection."
+        },
+        {
+            "chapter": 34,
+            "title": "Images",
+            "page_number": 1010,
+            "sections": [
+                "IMAGES AND PLANE MIRRORS",
+                "SPHERICAL MIRRORS",
+                "SPHERICAL REFRACTING SURFACES",
+                "THIN LENSES",
+                "OPTICAL INSTRUMENTS",
+                "THREE PROOFS"
+            ],
+            "summary": "Chapter 34 covers images, including plane mirrors, spherical mirrors, spherical refracting surfaces, thin lenses, and optical instruments."
+        },
+        {
+            "chapter": 35,
+            "title": "Interference",
+            "page_number": 1047,
+            "sections": [
+                "LIGHT AS A WAVE",
+                "YOUNG\u2019S INTERFERENCE EXPER IMENT",
+                "INTERFERENCE AND DOUBLE-SLIT INTENSITY",
+                "INTERFERENCE FROM THIN FILMS",
+                "MICHELSON\u2019S INTERFEROMETER"
+            ],
+            "summary": "Chapter 35 discusses interference, including light as a wave, Young's interference experiment, double-slit interference, interference from thin films, and Michelson's interferometer."
+        },
+        {
+            "chapter": 36,
+            "title": "Diffraction",
+            "page_number": 1081,
+            "sections": [
+                "SINGLE-SLIT DIFFRACTION",
+                "INTENSITY IN SINGLE-SLIT DIFFRACTION",
+                "DIFFRACTION BY A CIRCULAR APERTURE",
+                "DIFFRACTION BY A DOUBLE SLIT",
+                "DIFFRACTION GRATINGS",
+                "GRATINGS:  DISPERSION AND RESOLVING POWER",
+                "X-RAY DIFFRACTION"
+            ],
+            "summary": "Chapter 36 discusses diffraction, including single-slit diffraction, intensity in single-slit diffraction, diffraction by a circular aperture, diffraction by a double slit, diffraction gratings, dispersion and resolving power of gratings, and X-ray diffraction."
+        },
+        {
+            "chapter": 37,
+            "title": "Relativity",
+            "page_number": 1116,
+            "sections": [
+                "SIMULTANEITY AND TIME DILATION",
+                "THE RELATIVITY OF LENGTH",
+                "THE LORENTZ TRANSFORMATION",
+                "THE RELATIVITY OF VELOCITIES",
+                "DOPPLER EFFECT FOR LIGHT",
+                "MOMENTUM AND ENERGY"
+            ],
+            "summary": "Chapter 37 covers relativity, including simultaneity and time dilation, the relativity of length, the Lorentz transformation, the relativity of velocities, the Doppler effect for light, and momentum and energy."
+        },
+        {
+            "chapter": 38,
+            "title": "Photons and Matter Waves",
+            "page_number": 1153,
+            "sections": [
+                "THE PHOTON, THE QUANTUM OF LIGHT",
+                "THE PHOTOELECTRIC EFFECT",
+                "PHOTONS, MOMENTUM, COMPTON SCATTERING, LIGHT \nINTERFERENCE",
+                "THE BIRTH OF QUANTUM PHY SICS",
+                "ELECTRONS AND MATTER WAVES",
+                "SCHR\u00d6DINGER\u2019S EQUATION",
+                "HEISENBERG\u2019S UNCERTAINTY PRINCIPLE",
+                "REFLECTION FROM A POTENTIAL STEP",
+                "TUNNELING THROUGH A POTENTIAL BARRIER"
+            ],
+            "summary": "Chapter 38 discusses photons and matter waves, including the photon as a quantum of light, the photoelectric effect, photons and momentum, Compton scattering, light interference, the birth of quantum physics, electrons and matter waves, Schr\u00f6dinger\u2019s equation, Heisenberg\u2019s uncertainty principle, reflection from a potential step, and tunneling through a potential barrier."
+        },
+        {
+            "chapter": 39,
+            "title": "More About Matter Waves",
+            "page_number": 1186,
+            "sections": [
+                "ENERGIES OF A TRAPPED ELECTRON",
+                "WAVE FUNCTIONS OF A TRAPPED ELECTRON",
+                "AN ELECTRON IN A FINITE WELL",
+                "TWO- AND THREE-DIMENSIONAL ELECTRON TRAPS",
+                "THE HYDROGEN ATOM"
+            ],
+            "summary": "Chapter 39 covers more about matter waves, including energies of a trapped electron, wave functions of a trapped electron, an electron in a finite well, two- and three-dimensional electron traps, and the hydrogen atom."
+        },
+        {
+            "chapter": 40,
+            "title": "All About Atoms",
+            "page_number": 1219,
+            "sections": [
+                "PROPERTIES OF ATOMS",
+                "THE STERN-GERLACH EXPERIMENT",
+                "MAGNETIC RESONANCE",
+                "EXCLUSION PRINCIPLE AND MULTIPLE ELECTRONS IN A TRAP",
+                "BUILDING THE PERIODIC TABLE",
+                "X RAYS AND THE ORDERING OF THE ELEMENTS",
+                "LASERS"
+            ],
+            "summary": "Chapter 40 discusses atoms, including properties of atoms, the Stern-Gerlach experiment, magnetic resonance, the exclusion principle and multiple electrons in a trap, building the periodic table, X-rays and the ordering of the elements, and lasers."
+        },
+        {
+            "chapter": 41,
+            "title": "Conduction of Electricity in Solids",
+            "page_number": 1252,
+            "sections": [
+                "THE ELECTRICAL PROPERTIES OF METALS",
+                "SEMICONDUCTORS AND DOPING",
+                "THE p-n JUNCTION AND THE TRANSISTOR"
+            ],
+            "summary": "Chapter 41 covers conduction of electricity in solids, including the electrical properties of metals, semiconductors and doping, and the p-n junction and the transistor."
+        },
+        {
+            "chapter": 42,
+            "title": "Nuclear Physics",
+            "page_number": 1276,
+            "sections": [
+                "DISCOVERING THE NUCLEUS",
+                "SOME NUCLEAR PROPERTIES",
+                "RADIOACTIVE DECAY",
+                "ALPHA DECAY",
+                "BETA DECAY",
+                "RADIOACTIVE DATING",
+                "MEASURING RADIATION DOSAGE",
+                "NUCLEAR MODELS"
+            ],
+            "summary": "Chapter 42 discusses nuclear physics, including discovering the nucleus, some nuclear properties, radioactive decay, alpha decay, beta decay, radioactive dating, measuring radiation dosage, and nuclear models."
+        },
+        {
+            "chapter": 43,
+            "title": "Energy from the Nucleus",
+            "page_number": 1309,
+            "sections": [
+                "NUCLEAR FISSION",
+                "THE NUCLEAR REACTOR",
+                "A NATURAL NUCLEAR REACTOR",
+                "THERMONUCLEAR FUSION: THE BASIC PROCESS",
+                "THERMONUCLEAR FUSION IN THE SUN AND OTHER STARS",
+                "CONTROLLED THERMONUCLEAR FUSION"
+            ],
+            "summary": "Chapter 43 covers energy from the nucleus, including nuclear fission, the nuclear reactor, a natural nuclear reactor, thermonuclear fusion, thermonuclear fusion in the sun and other stars, and controlled thermonuclear fusion."
+        },
+        {
+            "chapter": 44,
+            "title": "Quarks, Leptons, and the Big Bang",
+            "page_number": 1334,
+            "sections": [
+                "GENERAL PROPERTIES OF ELEMENTARY PARTICLES",
+                "LEPTONS, HADRONS, AND STRANGENESS",
+                "QUARKS AND MESSENGER PARTICLES",
+                "COSMOLOGY"
+            ],
+            "summary": "Chapter 44 discusses quarks, leptons, and the Big Bang, including general properties of elementary particles, leptons, hadrons, strangeness, quarks and messenger particles, and cosmology."
+        }
+    ],
+    "is_complete": true
+}
